@@ -1,1 +1,1 @@
-FROM docker.io/prom/prometheus:v2.15.1
+FROM docker.io/prom/prometheus:v2.15.2
